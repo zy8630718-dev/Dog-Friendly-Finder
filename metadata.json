@@ -1,0 +1,7 @@
+{
+  "name": "Dog Friendly Finder",
+  "description": "Find dog-friendly parks, cafes, beaches, and services near you using AI and Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
